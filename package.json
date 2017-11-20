@@ -1,0 +1,20 @@
+{
+  "name": "simple-sockets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "websockets.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmhuebner/simple-sockets.git"
+  },
+  "keywords": [],
+  "author": "David Huebner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmhuebner/simple-sockets/issues"
+  },
+  "homepage": "https://github.com/dmhuebner/simple-sockets#readme"
+}
